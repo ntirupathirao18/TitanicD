@@ -1,0 +1,2 @@
+# TitanicD
+Using logistic Regression
